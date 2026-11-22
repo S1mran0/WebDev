@@ -1,8 +1,28 @@
+Note Day 1----------
 git status
 git add filename
 or
-git add .
+add all: git add .
 git commit -m "commit message"
 git push origin branchName
+git pull origin branchName
 
-git checkout -b branchName
+existing branch: git checkout main
+new branch: git checkout -b branchName
+git add css/style.css
+
+Note Day 2-------------
+    Relative Path: relative path points to files based on the CSS file's own locaation, while absolute paths
+     use a complete wed adress or start directly from the website's root folder.
+    Abosulate Path: An absolute path points ti fixed loacation regardless of where your CSS file is stored.
+ double dot (..) back
+
+ <abc>(tag)
+ <html>
+ <head> (mind/brain) link css, meta tab
+ </head>
+    <body>
+    </body>
+ </html>
+
+ self closing tag
